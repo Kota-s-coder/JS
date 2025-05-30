@@ -20,3 +20,19 @@ const questions = [
 for(let index = 0; index < questions.length; index++){
     console.log(questions[index]);
 }
+
+// >
+// >
+// >=
+// <=
+// ===
+// !==
+
+// &&
+// ||
+
+let isLogin = true;
+if(isLogin){
+    // alert("ログインしてください")
+    
+}
